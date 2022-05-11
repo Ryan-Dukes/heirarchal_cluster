@@ -1,2 +1,2 @@
 # heirarchal_cluster
-This is the freecodecamp walkthrough Heriarchal cluster activity
+This is the freecodecamp tutorial Heriarchal cluster activity
